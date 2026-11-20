@@ -2,4 +2,4 @@
 
 Tutorial: https://gamedev.land/runner/
 
-Preview demo: https://gamedevland.github.io/runner/
+Preview demo: https://bolotnikov.github.io/runner/
